@@ -10,8 +10,8 @@ This repository contains implementations for:
 ## Group Members
 -Hugues Munezero
 -Cyubahiro Elvin
-=Silver Jr Shalom Nshuti
-=Nsabagasani Emmanuel
+-Silver Jr Shalom Nshuti
+-Nsabagasani Emmanuel
 
 
 ```
