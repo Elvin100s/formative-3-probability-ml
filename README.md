@@ -11,15 +11,9 @@ This repository contains implementations for:
 Hugues Munezero
 Cyubahiro Elvin
 Silver Jr Shalom Nshuti
-Nsabagasani E mmanuel
+Nsabagasani Emmanuel
 
-## Project Structure
-```
-├── part1_bivariate_normal/
-├── part2_bayesian_probability/
-├── part3_manual_calculations/
-├── part4_gradient_descent_code/
-└── README.md
+
 ```
 
 ## Due Date
