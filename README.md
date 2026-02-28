@@ -8,10 +8,10 @@ This repository contains implementations for:
 - Part 4: Gradient Descent Implementation in Python
 
 ## Group Members
-- [Member 1]
-- [Member 2]
-- [Member 3]
-- [Member 4]
+Hugues Munezero
+Cyubahiro Elvin
+Silver Jr Shalom Nshuti
+Nsabagasani E mmanuel
 
 ## Project Structure
 ```
