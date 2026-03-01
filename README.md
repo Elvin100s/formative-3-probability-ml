@@ -13,7 +13,25 @@ This repository contains implementations for:
 -Silver Jr Shalom Nshuti
 -Nsabagasani Emmanuel
 
+## 👥 Group Contribution
+ 
+Below is a breakdown of the sections each member worked on:
 
+### 👤 Silver Nshuti
+- Part 1: Probability Distributions
+- Part 3: Gradient Descent Manual Calculation/ 1st Iteration
+
+### 👤 Emmanuel Nsabagasani
+- Part 1: Probability Distributions
+- Part 3: Gradient Descent Manual Calculation/ 2nd Iteration
+
+### 👤 Elvin Cyubahiro
+- Part 2: Bayesian Probability
+- Part 3: Gradient Descent Manual Calculation/ 4th Iteration
+
+### 👤 Hugues Munezero
+- Part 4: Gradient Descent in Code 
+- Part 3: Gradient Descent Manual Calculation/ 3rd Iteration
 ```
 
 ## Due Date
